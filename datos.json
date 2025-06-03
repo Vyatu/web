@@ -1,0 +1,23 @@
+{
+  "nombre": "Victor Yatusa",
+  "email": "UveYatu@email.com",
+  "resumen": "tecnico en sistemas.",
+  "experiencia": [
+    "tecnico en sistemas",
+    "mecanico lipasam (2024)",
+    "Operario SAX  (2023 )",
+    "mozo de almcen supeco 2021",
+    "confeccion de talonarios (2017-2020)",
+    "podador y recolector de olivos (2015) (2016)",
+    "aprendiz de chapista (2015)",
+    "practicas curriculares electromecanico servicio oficial Citroen"
+  ],
+  "educacion": [
+    "grado medio en electromecanica de vehiculos  (2010-2012)",
+    "fpo tecnico en comercio y marketing 640 Hrs (2016)",
+    "curso en mantenimiento de mecanica industrial (2016-2017)",
+    "curso ingles en atencion al publico (2014)"
+
+
+    ] 
+}
